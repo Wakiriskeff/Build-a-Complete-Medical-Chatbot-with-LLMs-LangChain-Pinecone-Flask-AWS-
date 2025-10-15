@@ -1,0 +1,8 @@
+pinecone API key
+
+pcsk_2doKLx_DPyLJKtnadcDp8bt1tBRqzqLnY8Yh2WCTRfGKmJoFKAhxcBHG2pTYEu9AAm6nDj
+
+medical bot api key
+
+pcsk_22vc19_FfZ3SeaMTC8y68a9wshwhgCmaYsAPBDH2acpixLdExNM4sUfGvKkf4Mt5q1PWTi
+
