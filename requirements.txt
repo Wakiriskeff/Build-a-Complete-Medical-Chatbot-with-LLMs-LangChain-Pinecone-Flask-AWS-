@@ -8,3 +8,5 @@ langchain-openai==0.3.24
 langchain-community==0.3.26
 ipykernel 
 -e .
+
+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
